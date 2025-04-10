@@ -42,3 +42,4 @@ C:\Users\adison.gualberto\Desktop\FaleMais\backend\FaleMais\obj\Debug\net8.0\ref
 C:\Users\adison.gualberto\Desktop\FaleMais\backend\FaleMais\obj\Debug\net8.0\FaleMais.pdb
 C:\Users\adison.gualberto\Desktop\FaleMais\backend\FaleMais\obj\Debug\net8.0\FaleMais.genruntimeconfig.cache
 C:\Users\adison.gualberto\Desktop\FaleMais\backend\FaleMais\obj\Debug\net8.0\ref\FaleMais.dll
+C:\Users\adison.gualberto\Desktop\FaleMais\backend\FaleMais\obj\Debug\net8.0\FaleMais.sourcelink.json
